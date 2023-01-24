@@ -1,0 +1,4 @@
+*.java @natanaelsc
+*.ts @natanaelsc
+.github/ @natanaelsc @grupo-x
+*.js @hitoruku
